@@ -14,3 +14,7 @@ a = "sudo "  +  cmd + "   --kubeconfig admin.conf"
 #print(a)
 output = subprocess.getoutput(a)
 print(output)
+
+
+
+# hello testing 
